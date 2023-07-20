@@ -24,9 +24,3 @@ The code uses if statements to print information about whether its a cheetah or 
 
 Then it will tell you whether it is a Leopard or Cheetah.
 
-List of liabrary:
-
-https://github.com/pacmengaming/bearAI/blob/main/database_print.py
-https://github.com/pacmengaming/bearAI/blob/main/bearAI.py
-
-https://studio.youtube.com/video/SV752c5rnHE/edit

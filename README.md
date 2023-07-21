@@ -13,6 +13,7 @@ The code uses if statements to print information about whether its a cheetah or 
 
 ## Running this project
 #1: Download jetson inference librabry onto the jetson nano with its required packages.
+
 #2: Refer to: (https://github.com/dusty-nv/jetson-inference/tree/master)
 
 #3: Add the my_recognition directory to the jetson inference directory.
